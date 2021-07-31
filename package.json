@@ -12,6 +12,7 @@
     "prosemirror-keymap": "^1.1.4",
     "prosemirror-markdown": "^1.5.1",
     "prosemirror-model": "^1.14.3",
+    "prosemirror-schema-basic": "^1.1.2",
     "prosemirror-state": "^1.3.4",
     "prosemirror-transform": "^1.3.2",
     "prosemirror-view": "^1.18.11",
