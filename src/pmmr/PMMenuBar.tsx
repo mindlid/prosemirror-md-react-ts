@@ -1,6 +1,5 @@
 import React from "react"
 
-import "prosemirror-example-setup/style/style.css"
 import "prosemirror-view/style/prosemirror.css"
 
 import { toggleMark, setBlockType, wrapIn, Command } from "prosemirror-commands"
