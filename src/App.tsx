@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { PMEditorReact } from './pmmr/PMEditorReact'
 import { ProsemirrorEditor } from './ProsemirrorEditor'
 import { ProsemirrorMenuEditor } from './working/ProsemirrorMenuEditor'
 
@@ -8,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <p>Hello Vite + React!</p>
-      <ProsemirrorMenuEditor />
+      <PMEditorReact />
     </div>
   )
 }
